@@ -1,0 +1,14 @@
+body {
+    background: #222840;
+    background: -webkit-linear-gradient(bottom, #222840, #E1F7FB);
+    background: -moz-linear-gradient(bottom, #222840, #E1F7FB);
+    background: linear-gradient(to top, #222840, #E1F7FB);
+}
+
+h1 {
+  color: rgb(49, 85, 85);
+}
+
+h2 {
+  color: rgb(187, 206, 198);
+}
