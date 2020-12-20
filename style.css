@@ -3,6 +3,7 @@ body {
   background: -webkit-linear-gradient(bottom, #222840, #e1f7fb);
   background: -moz-linear-gradient(bottom, #222840, #e1f7fb);
   background: linear-gradient(to top, #222840, #e1f7fb);
+  
 }
 
 h1 {
@@ -45,4 +46,8 @@ p {
     -moz-transform: scale(1.5);
     transition: all 200ms ease-in;
     transform: scale(2);
+}
+
+.z {
+  z-index: 0;
 }
