@@ -3,7 +3,6 @@ body {
   background: -webkit-linear-gradient(bottom, #222840, #e1f7fb);
   background: -moz-linear-gradient(bottom, #222840, #e1f7fb);
   background: linear-gradient(to top, #222840, #e1f7fb);
-  
 }
 
 h1 {
@@ -34,18 +33,17 @@ p {
   transform: scale(1);
 }
 
-.lets:hover
-{
-    box-shadow: 0px 0px 150px #000000;
-    z-index: 2;
-    -webkit-transition: all 200ms ease-in;
-    -webkit-transform: scale(1.5);
-    -ms-transition: all 200ms ease-in;
-    -ms-transform: scale(1.5);   
-    -moz-transition: all 200ms ease-in;
-    -moz-transform: scale(1.5);
-    transition: all 200ms ease-in;
-    transform: scale(2);
+.lets:hover {
+  box-shadow: 0px 0px 150px #000000;
+  z-index: 2;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1.5);
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1.5);
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1.5);
+  transition: all 200ms ease-in;
+  transform: scale(2);
 }
 
 .z {
@@ -70,4 +68,10 @@ footer p {
 
 .bg {
   background-color: rgb(210, 231, 248);
+}
+
+.res {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
 }
