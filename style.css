@@ -51,3 +51,23 @@ p {
 .z {
   z-index: 0;
 }
+
+footer {
+  text-align: center;
+  padding: 30px 30px 10px;
+  color: white;
+  font-size: 14px !important;
+  background-color: rgb(28, 66, 97);
+}
+
+footer p {
+  color: white;
+}
+
+.col-md-auto > a {
+  text-decoration: none;
+}
+
+.bg {
+  background-color: rgb(210, 231, 248);
+}
