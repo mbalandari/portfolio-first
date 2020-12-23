@@ -3,6 +3,7 @@ body {
   background: -webkit-linear-gradient(bottom, #222840, #e1f7fb);
   background: -moz-linear-gradient(bottom, #222840, #e1f7fb);
   background: linear-gradient(to top, #222840, #e1f7fb);
+  
 }
 
 h1 {
@@ -76,6 +77,7 @@ footer p {
   height: auto;
 }
 
-.cont {
-  justify-content:flex-start;
+.container {
+  align-content: space-around;
+
 }
