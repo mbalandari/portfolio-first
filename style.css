@@ -75,3 +75,7 @@ footer p {
   max-width: 800px;
   height: auto;
 }
+
+.cont {
+  justify-content:flex-start;
+}
